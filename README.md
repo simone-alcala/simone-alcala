@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/badge/simone%20alcalá-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-alcala/)
 
-I'm a junior web developer.
+I'm a Java and Typescript developer.
 
 ### _Hobbies_
 
@@ -19,6 +19,6 @@ I'm a junior web developer.
 * ![Build Status](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Build Status](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Build Status](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 * ![Build Status](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simone-alcala&layout=compact&theme=cobalt&hide_border=true" />
+
 
 ![Build Status](https://img.shields.io/github/followers/simone-alcala.svg?style=social&label=Follow&maxAge=2592000)
